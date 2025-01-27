@@ -1,5 +1,3 @@
-Voici un **README.md** prêt pour ton projet **Texte2Audio**, avec un guide de démarrage rapide :  
-
 # Texte2Audio
 
 **Texte2Audio** est une application web basée sur Flask et l'IA pour convertir du texte en audio de haute qualité. Avec une interface conviviale et des fonctionnalités avancées, comme le clonage vocal et la gestion des fichiers audio, ce projet est idéal pour intégrer des solutions de Text-to-Speech dans vos applications.
