@@ -25,7 +25,7 @@
 
 1. **Clonez le projet depuis GitHub :**
    ```bash
-   git clone https://github.com/votre-utilisateur/texte2audio.git
+   git clone https://github.com/tomDeprez/-Texte2Audio-.git
    cd texte2audio
    ```
 
@@ -82,18 +82,6 @@ texte2audio/
 - **Flask** : Serveur web léger.
 - **TTS** : Module pour la synthèse vocale.
 - **Werkzeug** : Gestion sécurisée des fichiers téléchargés.
-
----
-
-## 🖥️ Déploiement en production
-
-Pour déployer l'application en production, vous pouvez utiliser un serveur WSGI tel que **Gunicorn** ou **uWSGI** avec un serveur proxy comme **Nginx**.
-
-Exemple avec Gunicorn :
-```bash
-pip install gunicorn
-gunicorn -w 4 -b 0.0.0.0:5000 app:app
-```
 
 ---
 
