@@ -13,6 +13,12 @@
 
 ---
 
+## Aperçu de l'interface
+
+Voici un aperçu de l'interface utilisateur de Texte2Audio :
+
+![Aperçu de l'interface utilisateur](assets/tts_interface.png)
+
 ## 🛠️ Installation et démarrage rapide
 
 ### Prérequis
