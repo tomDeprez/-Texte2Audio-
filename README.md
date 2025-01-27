@@ -94,6 +94,3 @@ Les contributions sont les bienvenues ! N'hésitez pas à soumettre une issue 
 ## 📧 Contact
 
 Si vous avez des questions ou des suggestions, contactez-moi sur github.
-```
-
-Ce fichier est complet avec tout ce dont un utilisateur a besoin pour démarrer rapidement et comprendre le projet. Si tu as des préférences supplémentaires, je peux ajuster ! 😊
